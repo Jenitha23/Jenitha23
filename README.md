@@ -46,7 +46,7 @@ What excites me most is solving problems creatively and learning something new w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nodejs,spring,docker,mysql,mongodb,postman,vercel,figma&perline=8&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nodejs,spring,docker,mysql,dotnet,mongodb,postman,vercel,figma&perline=8&theme=light" />
 
 </div>
 
