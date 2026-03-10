@@ -25,7 +25,7 @@ What excites me most is solving problems creatively and learning something new w
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9650.jpg" alt="Banner" width="88%" style="border-radius:16px"/>
+<img src="https://i.pinimg.com/236x/eb/da/be/ebdabe5ea80c1b430a79c78a72241a26.jpg" alt="Banner" width="88%" style="border-radius:16px"/>
 
 </td>
 </tr>
