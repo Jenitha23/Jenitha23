@@ -8,13 +8,14 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/57/5a/1e/575a1ef94677e68130fce5c8ac201ab4.gif" width="480"/>
 
-# ✨ Who Am I
+## ✨ Who Am I
 
 Hi, I'm **Jenitha Johnson Maxi**, a **Computer Science undergraduate at SLIIT** who enjoys building real-world software from idea to deployment.
 
 I like working across the **entire development stack** — from designing interfaces to building backend systems and deploying applications with modern DevOps practices.
+<img align="right" src="https://i.pinimg.com/originals/e2/e1/bd/e2e1bd2e5c02d4d598a1abcf978789bd.gif" width="420"/>
+
 
 ### 🚀 My interests
 
@@ -29,18 +30,16 @@ I enjoy turning ideas into **working systems**, experimenting with technologies,
 
 When I'm not coding, I'm probably:
 
-- 🎧 listening to music way too loud  
-- 🌙 debugging something at an unreasonable hour  
-- 📚 exploring random tech rabbit holes  
-- ☕ turning coffee into working code  
+- 🎧 listening to music way too loud
+- 🌙 debugging something at an unreasonable hour
+- 📚 exploring random tech rabbit holes
+- ☕ turning coffee into working code
 
 > currently accepting **collabs · project ideas · memes about merge conflicts**
 
 <br clear="right"/>
 
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,14 +49,12 @@ When I'm not coding, I'm probably:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenitha23&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=8b5cf6&dates=6d28d9" height="165"/>
-
 &nbsp;
-
 <img src="https://github-readme-stats.vercel.app/api?username=Jenitha23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" height="165"/>
 
 <br/><br/>
@@ -67,12 +64,17 @@ When I'm not coding, I'm probably:
 </div>
 
 ---
-#  Let's Connect ❤️
+
+## 🤝 Let's Connect
 
 <div align="left">
+
 <a href="https://github.com/Jenitha23"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jenitha-johnson-maxi-84631621b"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/></a>
+
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -80,6 +82,6 @@ When I'm not coding, I'm probably:
 
 </div>
 
-<br><br>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
