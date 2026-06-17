@@ -19,9 +19,9 @@ I like working across the **entire development stack** — from designing interf
 
 ### 🚀 My interests
 
+- 🐳 **DevOps & Deployment**
 - ⚙️ **Backend Engineering**
 - 🌐 **Full Stack Development**
-- 🐳 **DevOps & Deployment**
 - 🚀 Building products that actually run beyond localhost
 
 I enjoy turning ideas into **working systems**, experimenting with technologies, and constantly learning how software works under the hood.
