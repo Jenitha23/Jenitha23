@@ -9,33 +9,26 @@
 ---
 
 
-## ✨ Who Am I
+## ✨ About Me
 
-Hi, I'm **Jenitha Johnson Maxi**, a **Computer Science undergraduate at SLIIT** who enjoys building real-world software from idea to deployment.
+<img align="right" alt="Developer Workspace" width="430" src="https://img.magnific.com/premium-photo/png-lonely-office-furniture-computer-table_53876-1097139.jpg?w=360" width="320" alt="Developer Workspace">
 
-I like working across the **entire development stack** — from designing interfaces to building backend systems and deploying applications with modern DevOps practices.
-<img align="right" src="https://i.pinimg.com/originals/e2/e1/bd/e2e1bd2e5c02d4d598a1abcf978789bd.gif" width="420"/>
+I'm **Jenitha Johnson Maxi**, a **Computer Science undergraduate at SLIIT** passionate about building reliable, scalable, and production-ready software.
 
+My primary interests are **Software Engineering**, **Backend Development**, and **DevOps**. I enjoy designing and developing modern applications, building RESTful APIs, automating deployments, and learning technologies that improve software quality and delivery.
 
-### 🚀 My interests
+I believe software engineering is more than writing code—it's about solving real-world problems, designing maintainable systems, and delivering solutions that scale. Through hands-on projects, I continue to strengthen my skills in cloud computing, containerization, CI/CD, automation, and modern software architecture.
 
-- 🐳 **DevOps & Deployment**
-- ⚙️ **Backend Engineering**
-- 🌐 **Full Stack Development**
-- 🚀 Building products that actually run beyond localhost
+### Areas of Focus
 
-I enjoy turning ideas into **working systems**, experimenting with technologies, and constantly learning how software works under the hood.
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- DevOps & Cloud Technologies
+- CI/CD & Deployment Automation
+- Scalable System Design
 
-### 🌙 Outside the editor
-
-When I'm not coding, I'm probably:
-
-- 🎧 listening to music way too loud
-- 🌙 debugging something at an unreasonable hour
-- 📚 exploring random tech rabbit holes
-- ☕ turning coffee into working code
-
-> currently accepting **collabs · project ideas · memes about merge conflicts**
+> **Actively seeking Software Engineering and DevOps internship opportunities while continuously learning, building, and contributing to impactful projects.**
 
 <br clear="right"/>
 
